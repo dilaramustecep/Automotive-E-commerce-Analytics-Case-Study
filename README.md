@@ -1,17 +1,4 @@
-# Internship Case Study - June 2024
-
-## Introduction
-
-Welcome to our Case Study. You've made it to the final phase of our selection process, and this is your opportunity to showcase your expertise and analytical prowess. We are excited to see how you approach the tasks and the insights you can generate from the data provided. We wish you the best of luck and hope you find the challenge engaging!
-
-## Assignment Overview
-
-**Problem Domain:** Automotive e-commerce analytics
-
-**Submission Deadline:** 18/06/2024 at 04:00 p.m. CET/GMT+2
-
-**Submission Instructions:**
-Please submit your work by emailing us your code and results in Notebook (.ipynb) and HTML formats with printed results. To ensure we receive your submission without issues, we recommend using a file-sharing service such as Google Drive or Dropbox. But preferably if you have a GitHub account, you may also create a private repository and invite us to access it. @maximilianmaukner, @RandomAnass.
+# Automotive E-commerce Analytics Case Study
 
 ## Context
 
@@ -31,34 +18,6 @@ Using the provided datasets, please perform the following analyses:
 4. Perform customer segmentation to cluster users based on their interactions and purchasing behaviors on the different platforms.
 5. Investigate the types of cars (e.g., electric, hybrid, diesel) preferred on each platform and how this correlates with the platform's sales performance and user satisfaction.
 6. Open-ended exploration: you can explore the datasets further and propose additional analyses, modeling, visualizations, or insights.
-
-
-
-
-### Task 2: Presentation
-
-You are the lead eCommerce Data Scientist in a well-known car company, and this task requires you to come up with ideas for the following digitalization problem: <br>
-Online sales have dominated the used car market for years, and it makes sense for this trend also to invade the new car scene. Consequently, your company wants to increase the share of its online sales from its total new car sales as well. 
-
-Now, it is your job to develop ideas that revolve around using big data and data science within eCommerce to boost online sales.
-
-
-1. Use your findings from Task 1 to provide strategic recommendations for each platform, focusing on aspects such as user experience, marketing strategies, and inventory management.
-
-2. Develop ideas that focus on data science and machine learning to enhance the digital customer journey on our car sales platforms.
-    - Identify the types of data that would be required to implement your ideas.
-    - Discuss potential limitations or challenges associated with your proposals.
-
-
-Prepare a 20-25 minute presentation of your findings, dedicating  ~25 minutes to Task 1 and ~5 minutes for Task 2.
-
-Feel free to use any presentation software you are comfortable with.
-
-### Considerations
-
-- You will need to formulate hypotheses and assumptions to complete this task.
-- There is no single "correct" solution; we are looking for your unique analytical approach.
-- Your ability to derive business insights from the analysis is crucial.
 
 
 ## Dataset Descriptions (Metadata)
@@ -96,4 +55,8 @@ Below are descriptions of the datasets you will be working with:
 - `visit_type`: Type of visit (e.g., purchasing, car configuration, testing). 
 - `transaction_id`: purchase identifier for purchasing visits.
 
-**Good luck and have fun!**
+---
+
+**NOTE: Data is taken from [@RandomAnass' Internship-Case-DS-2024 Repository](https://github.com/RandomAnass/Internship-Case-DS-2024).**
+
+---
